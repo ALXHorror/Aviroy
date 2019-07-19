@@ -1,0 +1,98 @@
+
+Discord Bot: https://discordapp.com/api/oauth2/authorize?client_id=435219241415999488&permissions=2146958583&scope=bot
+
+Go check out my channel :) https://www.youtube.com/channel/UCTER62H1xVPa0Xg2C_lCeYw?
+
+Oh and this is my first time using GIT...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bot.login(TOKEN);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var fortunes = [
+    "Yes" , 
+    "No" , 
+    "Maybe" ,
+    "Fuck u" , 
+    "Honestly... I dont care!" , 
+    "Nope" ,
+    "Not happening" ,
+    "Good Luck" ,
+    "You Wish" ,
+    "Cum on me :wink:" , 
+    "Not Sure" ,
+    "mY lIfE iS a lIe" ,
+    "Hello Fuckers" ,
+    "Im GAYYY" ,
+    
+]
+
+
+
+
+
+
+"Yes" , 
+    "No" , 
+    "Maybe" ,
+    "Fuck u" , 
+    "Honestly... I dont care!" , 
+    "Nope" ,
+    "Not happening" ,
+    "Good Luck" ,
+    "You Wish" ,
+    "Cum on me :wink:" ,
